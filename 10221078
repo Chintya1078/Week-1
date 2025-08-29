@@ -1,0 +1,105 @@
+# Praktikum Cloud Computing
+## Week 1 — <Environtment Setup & GitHub Integration>
+
+### Identitas
+- Nama  : Chintya  
+- NIM   : 10221078  
+- Kelas : SI 2022  
+
+---
+
+## ✅ Deliverables
+
+### 1. Verifikasi PHP Version
+**Screenshot:**  
+![deliverable-1](<PHP version.png>)
+
+**Penjelasan:**  
+Hasilnya menampilkan bahwa PHP yang terpasang di laptop adalah PHP versi 8.2.12.
+
+---
+
+### 2. Verifikasi Composer
+**Screenshot:**  
+![deliverable-3](<Composer version.png>)
+
+**Penjelasan:**  
+Composer sudah berhasil terinstall.
+
+---
+
+### 3. Verifikasi Node.js & NPM
+**Screenshot:**  
+![deliverable-3](<Node.js dan NPM.png>)
+
+**Penjelasan:**  
+Menunjukkan bahwa Node.js, NPM, Yarn, Serve, dan Firebase-tools sudah terpasang yang berfungsi menjalankan server lokal.
+
+---
+
+### 4. Konfigurasi Git Global
+**Screenshot:**  
+![deliverable-3](<Git Global.png>)
+
+**Penjelasan:**  
+Git sudah dikonfigurasi global dengan nama Chintya1078, menggunakan email 10221078@student.itk.ac.id
+
+---
+
+### 5. SSH Key GitHub
+**Screenshot:**  
+![deliverable-3](<Generate SSH Key.png>)
+
+**Penjelasan:**  
+Proses pembuatan SSH key ed25519 dengan email 10221078@student.itk.ac.id, yang menghasilkan file private key (id_ed25519) dan public key (id_ed25519.pub).
+
+---
+
+### 6. Key ke SSH Agent
+![deliverable-3](<Key SSH.png>)
+
+**Penjelasan:**  
+Proses menambahkan SSH key ed25519 dengan judul Prak 1 KA ke akun GitHub Chintya1078.
+
+---
+
+### 7. Public Key
+![deliverable-3](<Public Key.png>)
+
+**Penjelasan:**  
+Menunjukkan bahwa SSH key dengan nama "Prak 1 KA" berhasil ditambahkan ke akun GitHub Chintya1078 dan digunakan untuk autentikasi aman ke repository.
+
+---
+
+### 8. Test PHP CLI
+**Screenshot:**  
+![deliverable-3](<Verifikasi dan Test PHP CLI.png>)
+
+**Penjelasan:**  
+Hasilnya menampilkan bahwa PHP, Composer, Node, NPM, dan Git sudah berhasil dilakukan dan berjalan.
+
+---
+
+### 9. Test Composer
+**Screenshot:**  
+![deliverable-3](<Test Composer.png>)
+
+**Penjelasan:**  
+Proses instalasi Laravel menggunakan Composer yang berhasil membuat project baru bernama test-laravel
+
+---
+
+### 10. Test Koneksi GitHub
+**Screenshot:**  
+![deliverable-3](<Test GitHub Connection.png>)
+
+**Penjelasan:**  
+Menunjukkan hasil uji coba koneksi SSH ke GitHub yang berhasil dengan pesan "GitHub SSH connection OK".
+
+---
+
+## 📌 Kendala & Solusi ( Jika Ada )
+- **Kendala:** Tuliskan kendala yang ditemui.  
+- **Solusi:** Jelaskan bagaimana cara mengatasinya.
+
+---
